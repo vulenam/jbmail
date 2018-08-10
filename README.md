@@ -1,1 +1,1 @@
-"# jbmail" 
+Japanese business mail application
